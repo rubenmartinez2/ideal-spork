@@ -1,4 +1,4 @@
 require './firstapp'
 
 
-run Sinatra::Apllication
+run Sinatra::Application
